@@ -1,1 +1,3 @@
 settings.sh filter=git-crypt diff=git-crypt
+crayport-cscratch-dump.tsv filter=git-crypt diff=git-crypt
+crayport-scratch-dump-anon.csv filter=git-crypt diff=git-crypt
